@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>About everything</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>ACME Publishing Company</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Kurt Keks</author>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pleaseBreakHere/>
+        </body>
+    </text>
+</TEI>
